@@ -1,0 +1,14 @@
+{
+  "name": "push-notifications-demo",
+  "version": "1.0.0",
+  "description": "Simple push notifications demo",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Flatsteve",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
